@@ -1,6 +1,11 @@
 # Python-Automated-CSV-Renaming-and-Word-Document-Filling-Script
 As asked in my Work with their directives , this repository contains Python scripts designed to automate the renaming of CSV files and the filling of Word documents from templates. These tools streamline repetitive tasks by dynamically merging data with predefined documents, improving efficiency.
 
+## Note on Data Privacy
+
+Please note that due to company data privacy policies, I am unable to share the original Word and Excel files used in this project. The provided scripts are designed to work with company data files, ensuring compliance with data protection regulations.
+
+
 ## Features
 - **Automatic CSV Renaming**: The script allows batch renaming of CSV files based on specified patterns or rules given by my company.
 - **Word Document Auto-filling**: Data extracted from CSV files is inserted into predefined Word document templates, generating completed documents with minimal manual effort.
